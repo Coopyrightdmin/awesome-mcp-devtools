@@ -176,6 +176,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 > High-level frameworks for working with MCP servers
 
+- [Alien6-Studio/outerspace-apizr](https://github.com/Alien6-Studio/outerspace-apizr) 🐍 - Apizr, an open-source capability compiler for Python. Discover existing capabilities, define explicit exposure policies and generate MCP or REST interfaces with governed execution boundaries.
 - [cordum-io/cordum](https://github.com/cordum-io/cordum) 🏎️ – Native MCP server from a safety-first agent orchestration platform. Supports stdio + HTTP/SSE transports with 6 tools (job submission, policy evaluation, output scanning, workflow triggering, audit queries, pool status) and 7 resources.
 - [hasmcp/hasmcp-ce](https://github.com/hasmcp/hasmcp-ce) 🤖📇🏎️ - Convert your API to MCP server with built-in authentication, authorization, real-time request/response logs and metrics. HasMCP is a no-code, self-hosted API to MCP server bridge.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns
@@ -262,7 +263,6 @@ Public test endpoints:
 
 ### Development Tools
 
-- [Alien6-Studio/outerspace-apizr](https://github.com/Alien6-Studio/outerspace-apizr) 🐍 - OuterSpace Apizr, an open-source capability compiler for Python codebases. Discover typed capabilities, plan explicit MCP or REST exposure, and analyze projects through a local read-only MCP server without rewriting business logic.
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
